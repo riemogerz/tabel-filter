@@ -17,7 +17,7 @@
         null,
     ],
     col_widths: [
-        '50px',
+        '60px',
         '50px',
         '50px',
         '50px',
