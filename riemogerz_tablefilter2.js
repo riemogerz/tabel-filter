@@ -15,6 +15,9 @@
         null,
         'US',
         null,
+        null,
+        null,
+        null,
     ],
     col_widths: [
         '50px',
